@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SEMANA02/1.0.0": {
+        "runtime": {
+          "SEMANA02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEMANA02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
