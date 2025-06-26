@@ -1,0 +1,9 @@
+asumiendo
+PS C:\Users\n\Desktop\ESTRUCTURA-DE-DATOS\SEMANA05\ejercicio1>
+ejecutar el ejercio 1
+dotnet run
+
+para cambiarte al ejercicio2
+cd..
+cd ejercicio2
+PS C:\Users\n\Desktop\ESTRUCTURA-DE-DATOS\SEMANA05\ejercicio2>
