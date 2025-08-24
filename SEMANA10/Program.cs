@@ -1,5 +1,4 @@
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 public class CampanaVacunacion
@@ -62,3 +61,4 @@ public class CampanaVacunacion
         return lista;
     }
 }
+
