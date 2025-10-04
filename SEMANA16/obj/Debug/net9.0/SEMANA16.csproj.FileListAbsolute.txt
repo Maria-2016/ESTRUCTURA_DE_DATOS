@@ -1,0 +1,15 @@
+C:\Users\n\Desktop\ESTRUCTURA-DE-DATOS\SEMANA16\bin\Debug\net9.0\SEMANA16.exe
+C:\Users\n\Desktop\ESTRUCTURA-DE-DATOS\SEMANA16\bin\Debug\net9.0\SEMANA16.deps.json
+C:\Users\n\Desktop\ESTRUCTURA-DE-DATOS\SEMANA16\bin\Debug\net9.0\SEMANA16.runtimeconfig.json
+C:\Users\n\Desktop\ESTRUCTURA-DE-DATOS\SEMANA16\bin\Debug\net9.0\SEMANA16.dll
+C:\Users\n\Desktop\ESTRUCTURA-DE-DATOS\SEMANA16\bin\Debug\net9.0\SEMANA16.pdb
+C:\Users\n\Desktop\ESTRUCTURA-DE-DATOS\SEMANA16\obj\Debug\net9.0\SEMANA16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\ESTRUCTURA-DE-DATOS\SEMANA16\obj\Debug\net9.0\SEMANA16.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\ESTRUCTURA-DE-DATOS\SEMANA16\obj\Debug\net9.0\SEMANA16.AssemblyInfo.cs
+C:\Users\n\Desktop\ESTRUCTURA-DE-DATOS\SEMANA16\obj\Debug\net9.0\SEMANA16.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\ESTRUCTURA-DE-DATOS\SEMANA16\obj\Debug\net9.0\SEMANA16.sourcelink.json
+C:\Users\n\Desktop\ESTRUCTURA-DE-DATOS\SEMANA16\obj\Debug\net9.0\SEMANA16.dll
+C:\Users\n\Desktop\ESTRUCTURA-DE-DATOS\SEMANA16\obj\Debug\net9.0\refint\SEMANA16.dll
+C:\Users\n\Desktop\ESTRUCTURA-DE-DATOS\SEMANA16\obj\Debug\net9.0\SEMANA16.pdb
+C:\Users\n\Desktop\ESTRUCTURA-DE-DATOS\SEMANA16\obj\Debug\net9.0\SEMANA16.genruntimeconfig.cache
+C:\Users\n\Desktop\ESTRUCTURA-DE-DATOS\SEMANA16\obj\Debug\net9.0\ref\SEMANA16.dll
